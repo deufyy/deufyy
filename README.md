@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://png.pngtree.com/thumb_back/fw800/background/20241124/pngtree-misty-blue-gradient-mountain-landscape-illustration-image_16632432.jpg" alt="Banner" width="850px" style="max-width: 100%; border-radius: 10px;">
+  <img src="https://github.com/deufyy/deufyy/blob/main/988469818219967250.jpg" alt="Banner" width="850px" style="max-width: 100%; border-radius: 10px;">
 </p>
 
 <h1 align="center">⚡ Welcome to Devyna's GitHub ⚡</h1>
@@ -46,21 +46,24 @@
 ---
 
 ## 📊 ⟨ GitHub Statistics ⟩
-
+<table align="center" width="100%">
+  <tr>
+    <td align="center"><b>Status</b></td>
+    <td align="center"><b>Focus Stack</b></td>
+    <td align="center"><b>Environment</b></td>
+  </tr>
+  <tr>
+    <td align="center">Active Coder</td>
+    <td align="center">Java & JavaScript</td>
+    <td align="center">Linux / VS Code</td>
+  </tr>
+</table
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deufyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deufyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deufyy&theme=react-dark&hide_border=true&color=ffffff&line=ffffff&point=ffffff&background=0d1117" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deufyy&theme=tokyo-night&hide_border=true&color=38bdf8&line=38bdf8&point=ffffff&background=0d1117" width="100%" />
-</p>
-
----
-
 ## 🎧 ⟨ Current Vibe & Goals ⟩
 
-> *"A man without studies is an incomplete being" — Simón Bolívar*
+> *"A woman without studies is an incomplete being"" — Simón Bolívar*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=100&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=20&fontColor=38bdf8" width="100%" />
