@@ -59,9 +59,9 @@
   </tr>
 </table
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deufyy&theme=react-dark&hide_border=true&color=ffffff&line=ffffff&point=ffffff&background=0d1117" width="100%" />
+  
 </p>
-## 🎧 ⟨ Current Vibe & Goals ⟩
+🎧 ⟨ Current Vibe & Goals ⟩
 
 > *"A woman without studies is an incomplete being"" — Simón Bolívar*
 
