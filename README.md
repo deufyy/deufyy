@@ -38,7 +38,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux%20openSUSE-2563eb?style=flat-square&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-VirtualBox-1e40af?style=flat-square&logo=virtualbox&logoColor=white">
   <img src="https://img.shields.io/badge/Editor-VS%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=white">
 </p>
